@@ -1,6 +1,9 @@
 Create a New React App: npx create-react-app my-app
+
 Start Development Server: npm start or yarn start
+
 Build for Production: npm run build or yarn build
+
 Run Tests: npm test or yarn test
 
 
