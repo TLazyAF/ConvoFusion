@@ -1,4 +1,4 @@
-Create a New React App: npx create-react-app my-app
+Create a New React App: npx create-react-app convo-fusion
 
 Start Development Server: npm start or yarn start
 
