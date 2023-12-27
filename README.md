@@ -1,3 +1,6 @@
+create a new folder named convo-fusion and replace src folder with this src  folder
+
+
 Create a New React App: npx create-react-app convo-fusion
 
 Start Development Server: npm start or yarn start
